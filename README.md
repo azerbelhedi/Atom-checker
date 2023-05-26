@@ -12,22 +12,40 @@ You can try the following command for testing ```./vmd -e ZeoVis.tcl```, then en
 
 #### File strucutre
 this_folder/
+
 &nbsp;&nbsp;&nbsp;&nbsp;atom_checker.py
+
 &nbsp;&nbsp;&nbsp;&nbsp;template.tcl
+
 &nbsp;&nbsp;&nbsp;&nbsp;vmd
+
 &nbsp;&nbsp;&nbsp;&nbsp;network
+
 &nbsp;&nbsp;&nbsp;&nbsp;rad.rad
+
 &nbsp;&nbsp;&nbsp;&nbsp;ZeoVisCommands.tcl
+
 &nbsp;&nbsp;&nbsp;&nbsp;log/
+
 &nbsp;&nbsp;&nbsp;&nbsp;compact/
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BEA/
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BEA_C240Na26.vasp
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+BEA_C240Na26.vasp
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BEA.cif
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BEA.vasp
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BEB/
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SBT_2
 
 ### User guide
