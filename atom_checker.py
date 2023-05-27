@@ -65,7 +65,7 @@ def runVmd(originalPostionVector, periodicPositionVector, atomId, cifPath, logPa
     
     createTclFile(cifPath, periodicPositionString)
     
-    vmd_args = ["./vmd", "-e", "auto_script.tcl"]
+    vmd_args = ["vmd", "-e", "auto_script.tcl"]
     proc = subprocess.Popen(vmd_args, stdout=null_device, stderr=null_device)
         
     decision = ""

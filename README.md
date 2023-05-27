@@ -48,6 +48,8 @@ BEA_C240Na26.vasp
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SBT_2
 
+> :warning: **netowrk executable**: The network executable file provided in this repo should be replaced by your own zeo++ network file.
+
 ### User guide
 * The 'atom_checker.py' script takes the name of a carbon framework as an argument (e.g. BEA) ```python3 atom_checker BEA```
 * It naviagtes to the respective .vasp file (e.g. if the framework name is 'BEA' then the .vasp path would be 'compact/BEA/BEA.vasp')
